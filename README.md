@@ -1,6 +1,6 @@
 # Hi there, I'm Blake Saunders 👋
 
-## 🔧 About Me
+## ⭐ About Me
 
 👨‍💻 Designer / Developer / Perennial Entrepreneur / Tech Enthusiast  
 🏢 15+ years of professional experience  
