@@ -24,17 +24,6 @@ I'm a versatile software engineer with over **15 years of professional experienc
 - Full-stack development
 - Mobile app development (React Native)
 
-## 🚀 Current Projects
-
-### BitRun - Endless 8-Bit Runner
-
-Modern React Native + Expo endless runner game with advanced platforming mechanics.
-
-- Variable jump heights (tap vs hold)
-- Multi-tile floating platforms
-- Strategic coin collection system
-- 60 FPS performance optimization
-
 ## 🏢 Company
 
 q **ONMARS** - [onmars.ca](https://onmars.ca)
