@@ -33,7 +33,3 @@
 ## 💼 Open to Work
 
 I'm always open to new freelance and long-term projects. Let's work together!
-
----
-
-_"Building code and writing stuff since 1991"_
